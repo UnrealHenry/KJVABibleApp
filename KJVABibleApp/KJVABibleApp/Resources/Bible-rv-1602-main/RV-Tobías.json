@@ -1,0 +1,81 @@
+{
+  "book": "Tobías",
+  "chapter-count": "3",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Texto de Tobías 1:1 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 2,
+          "text": "Texto de Tobías 1:2 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 3,
+          "text": "Texto de Tobías 1:3 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 4,
+          "text": "Texto de Tobías 1:4 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 5,
+          "text": "Texto de Tobías 1:5 en español. (Reina-Valera 1602)"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Texto de Tobías 2:1 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 2,
+          "text": "Texto de Tobías 2:2 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 3,
+          "text": "Texto de Tobías 2:3 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 4,
+          "text": "Texto de Tobías 2:4 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 5,
+          "text": "Texto de Tobías 2:5 en español. (Reina-Valera 1602)"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Texto de Tobías 3:1 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 2,
+          "text": "Texto de Tobías 3:2 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 3,
+          "text": "Texto de Tobías 3:3 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 4,
+          "text": "Texto de Tobías 3:4 en español. (Reina-Valera 1602)"
+        },
+        {
+          "verse": 5,
+          "text": "Texto de Tobías 3:5 en español. (Reina-Valera 1602)"
+        }
+      ]
+    }
+  ]
+}
